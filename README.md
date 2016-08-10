@@ -45,8 +45,10 @@ $ nativefier -n "Bible.com for Desktop" -p linux "https://www.bible.com/bible/59
 After this is will create a folder for the app and you are good to go. 
 
 # Releases
-If you do not want to go through this if it seems like a lot of work, I have updated the [releases](#) area for you. 
-- [Windows 32 bit](#)
-- [Windows 64-bit](#)
-- [Linux](#)
-- [macOS](#)
+If you do not want to go through this if it seems like a lot of work, I have updated the [releases](https://github.com/cjerrington/Bible-for-Desktop/releases) area for you. 
+
+Version 1.0 Release
+- [Windows 32 bit](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-win32-ia32.zip)
+- [Windows 64-bit](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-win32-x64.zip)
+- [Linux](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-linux-x64.zip)
+- [macOS](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-darwin-x64.zip)
