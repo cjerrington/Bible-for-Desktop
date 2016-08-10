@@ -11,38 +11,8 @@ I wanted a way to read the Bible from Bible.com without always going to the brow
 
 My goal is to help bring this to the desktop for more people to use. 
 
-# Where to go from here? 
-The creation of the apps is Based off [Jia Hao](https://github.com/jiahaog)'s project [Nativefier](https://github.com/jiahaog/nativefier). 
-
-## So how do I build the app...
-```bash
-$ nativefier google.com
-```
-
-## Installation
-
-With [Node.js](https://nodejs.org/) `>=4` installed,
-
-```bash
-# for use from the command line
-$ npm install nativefier -g
-```
-
-# For this app
-## Installation
-
-With [Node.js](https://nodejs.org/) `>=4` installed,
-
-```bash
-# for use from the command line
-$ npm install nativefier -g
-$ nativefier -n "Bible.com for Desktop" -p win32 -a ia32 "https://www.bible.com/bible/59/gen.1"
-$ nativefier -n "Bible.com for Desktop" -p win32 -a x64 "https://www.bible.com/bible/59/gen.1"
-$ nativefier -n "Bible.com for Desktop" -p osx "https://www.bible.com/bible/59/gen.1"
-$ nativefier -n "Bible.com for Desktop" -p linux "https://www.bible.com/bible/59/gen.1"
-```
-
-After this is will create a folder for the app and you are good to go. 
+# Wiki
+More details on how to run and build the app can be found in the [Wiki](https://github.com/cjerrington/Bible-for-Desktop/wiki).
 
 # Releases
 If you do not want to go through this if it seems like a lot of work, I have updated the [releases](https://github.com/cjerrington/Bible-for-Desktop/releases) area for you. 
