@@ -22,3 +22,6 @@ Version 1.0 Release
 - [Windows 64-bit](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-win32-x64.zip)
 - [Linux](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-linux-x64.zip)
 - [macOS](https://github.com/cjerrington/Bible-for-Desktop/releases/download/1.0/Bible.for.Desktop-darwin-x64.zip)
+
+# License 
+[MIT](https://github.com/cjerrington/Bible-for-Desktop/blob/master/LICENSE.md)
