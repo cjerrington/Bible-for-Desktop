@@ -28,7 +28,7 @@ With [Node.js](https://nodejs.org/) `>=4` installed,
 $ npm install nativefier -g
 ```
 
-## For this app
+# For this app
 ## Installation
 
 With [Node.js](https://nodejs.org/) `>=4` installed,
